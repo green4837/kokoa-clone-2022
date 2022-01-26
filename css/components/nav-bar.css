@@ -32,3 +32,10 @@
   left: 15px;
   bottom: 15px;
 }
+
+.nav__link-circle {
+  position: absolute;
+  color: tomato;
+  font-size: 35px;
+  bottom: 40px;
+}
